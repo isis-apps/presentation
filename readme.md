@@ -14,3 +14,10 @@ git pull git://github.com/isis-apps/presentation.git ./public
 
 ## Credits
 
+Created by Makis Tracend ( [@tracend](http://github.com/tracend) ).
+
+Released through [Makesites.org](http://makesites.org)
+
+Distributed under the [MIT license](http://makesites.org/licenses/MIT)
+
+
